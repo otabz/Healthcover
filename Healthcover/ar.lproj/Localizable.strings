@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+  Healthcover
+
+  Created by Waseel ASP Ltd. on 12/12/16.
+  Copyright © 2016 Waseel ASP Ltd. All rights reserved.
+*/
+
+"English" = "English";
+
+"Find hospitals/clinics covered under\nyour health insurance." = "البحث عن المستشفيات و العيادات التي يغطيها
+التأمين الصحي الخاص بك.";
+
+"About us" = "معلومات عنا";
+
+"Waseel ASP Ltd." = "  شركة وصيل لنقل المعلومات الالكترونية  ";
+
+"\nWorking with major health insurances" = "
+العمل مع غالبية شركات التأمين الصحي";
+
+"\nGrowing number of healthcare providers" = "
+عدد متزايد من مقدمي الخدمة الصحية";
+
+"\nServing millions of insured members" = "
+خدمة الملايين من ألاعضاء المؤمن عليهم";
+
+"CLOSE" = "أغلق";
+
+"Hospitals & Clinics" = "المستشفيات و العيادات";
+
+"Search Hospitals & Clinics" = "البحث عن المستشفيات و العيادات";
+
+"Add your health insurance info." = "اضافة معلومات التأمين الصحي";
+
+"TYPE YOUR" = "أكتب";
+
+"CARD NO." = "رقم الهوية";
+
+"POLICY NO." = "رقم الوثيقة";
+
+"CONTINUE" = "استمر";
+
+"Problem validating info" = "مشكلة في التحقق من صحة المعلومات";
+
+"OK" = "حسنا";
+
+"Invalid insurance information.\nPlease try again." = "معلومات التأمين غير صالحة.
+حاول مرة اخرى.";
+
+"Already existing member" = "العضو موجود مسبقا";
+
+"Given info already exist for,  \n" = " المعلومات موجودة مسبقا،
+";
+
+"Enter Name" = "أدخل الاسم";
+
+"We couldn't retrieve your name\nTo proceed, please enter your name" = "لم نتمكن من استرداد اسمك. للمتابعة،
+يرجى إدخال اسمك";
+
+"Cancel" = "إلغاء";
+
+"Details" = "تفاصيل";
+
+"Delete" = "حذف";
+
+"Are you sure, you want to delete policy" = "هل أنت متأكد أنك تريد حذف الوثيقة";
+
+"All data will be deleted and you won't be able to recover it later." = "سيتم حذف جميع البيانات، و لن تكون قادرة على استعادتها لاحقا.";
+
+"Patient Share" = "حصة المريض ";
+
+"Find Hospitals & Clinics" = "البحث عن المستشفيات و العيادات";
+
+"Use my current location" = "استخدام موقعي الحالي";
+
+"With insurance coverage" = " المستشفيات و العيادات المعمدة";
+
+"It may take some time" = "قد يستغرق بعض الوقت";
+
+"Within 80 Kilometers" = "بعد ٨٠ كيلو متر";
+
+"Cannot determine your current location" = "لا يمكن تحديد موقعك الحالي";
+
+"It could be a problem of GPS connectivity, try again while relocating your device" = "يمكن أن تكون مشكلة اتصال GPS، حاول مرة أخرى أثناء الانتقال بهاتفك";
+
+"Healthcover does not have access to your location" = "لم يكن مسموح بالوصول إلى الموقع الخاص بك";
+
+"To enable access, tap Settings > Location" = "لتمكين الوصول، انقر فوق إعدادات> الموقع";
+
+"Settings" = "إعدادات";
+
+"Turn on Location Services to Allow \"Healthcover\" to Determine Your Location" = "شغيل خدمات الموقع إلى السماح \"Healthcover \" لتحديد موقعك";
+
+"To find providers around you, Healthcover needs access to your phone's location" = "العثور على مقدمي الخدمة حولك، Healthcover يحتاج إلى الوصول إلى موقع الهاتف";
+
+"More" = "أكثر";
+
+"Select Member" = "حدد الأعضاء";
+
+"Check Coverage" = "تحقق من التغطية";
+
+"Check" = "الاختيار";
+
+"Set" = "اختار";
+
+"Reset" = "إختار من جديد";
+
+"Select Insurance" = "اختر التأمين";
+
+"You are eligible" = "انت مؤهل للعلاج";
+
+"But service coverage may vary." = "ولكن تغطية الخدمات قد تختلف.";
+
+"You can contact Waseel for further info." = "يمكنك الاتصال بوصيل للحصول على مزيد من المعلومات.";
+
+"Select Department/Speciality" = "اختر القسم او التخصص";
+
+"Couldn't find your health insurance info." = " لا يمكن العثور على معلومات التأمين الصحي الخاصة بك";
+
+"To proceed, please provide your health insurance info." = "للمتابعة، يرجى تقديم معلومات التأمين الصحي الخاصة بك ";
+
+"Not now" = "ليس الان";
+
+"Continue" = "استمر";

@@ -1,0 +1,171 @@
+
+/* Class = "UILabel"; text = "TawuTiya"; ObjectID = "28b-Is-3Y2"; */
+"28b-Is-3Y2.text" = "TawuTiya";
+
+/* Class = "UILabel"; text = "Dr. Sulaiman Al Habib Medical Complex"; ObjectID = "3Mg-I1-yns"; */
+"3Mg-I1-yns.text" = "Dr. Sulaiman Al Habib Medical Complex";
+
+/* Class = "UILabel"; text = " اللغة العربية"; ObjectID = "3SN-UQ-o2J"; */
+"3SN-UQ-o2J.text" = "English";
+
+/* Class = "UILabel"; text = "002265390407001"; ObjectID = "3Yq-lS-bMS"; */
+"3Yq-lS-bMS.text" = "002265390407001";
+
+/* Class = "UIViewController"; title = "Check Coverage"; ObjectID = "4av-Pc-Fjv"; */
+"4av-Pc-Fjv.title" = "Check Coverage";
+
+/* Class = "UILabel"; text = "You are eligible but service coverage may vary."; ObjectID = "8LX-sc-ZV7"; */
+"8LX-sc-ZV7.text" = "You are eligible but service coverage may vary.";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "9pi-WC-diA"; */
+"9pi-WC-diA.normalTitle" = "Check";
+
+/* Class = "UITextField"; placeholder = "TYPE YOUR"; ObjectID = "Atc-CP-pMY"; */
+"Atc-CP-pMY.placeholder" = "TYPE YOUR";
+
+/* Class = "UILabel"; text = "Find hospitals/clinics covered under\nyour health insurance."; ObjectID = "BYu-gD-DSW"; */
+"BYu-gD-DSW.text" = "Find hospitals/clinics covered under\nyour health insurance.";
+
+/* Class = "UILabel"; text = "Primary"; ObjectID = "Bhv-vM-WDj"; */
+"Bhv-vM-WDj.text" = "Primary";
+
+/* Class = "UILabel"; text = "\nWorking with major health insurances"; ObjectID = "Boa-LM-Jeb"; */
+"Boa-LM-Jeb.text" = "\nWorking with major health insurances";
+
+/* Class = "UILabel"; text = "- -"; ObjectID = "EHA-oB-kF2"; */
+"EHA-oB-kF2.text" = "- -";
+
+/* Class = "UIButton"; normalTitle = "Muhammad Tayyab Muhammad Shoaib"; ObjectID = "FC4-0j-83Q"; */
+"FC4-0j-83Q.normalTitle" = "Muhammad Tayyab Muhammad Shoaib";
+
+/* Class = "UITextField"; placeholder = "Searh By Name"; ObjectID = "FmL-f5-F9p"; */
+"FmL-f5-F9p.placeholder" = "Searh By Name";
+
+/* Class = "UIViewController"; title = "Health Insurance Info."; ObjectID = "Gp1-ZD-0cE"; */
+"Gp1-ZD-0cE.title" = "Health Insurance Info.";
+
+/* Class = "UINavigationItem"; title = "Select Member"; ObjectID = "Gyq-eg-Y3G"; */
+"Gyq-eg-Y3G.title" = "Select Member";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "ISh-FR-Hrf"; */
+"ISh-FR-Hrf.text" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "K3a-hb-HZb"; */
+"K3a-hb-HZb.text" = "Title";
+
+/* Class = "UILabel"; text = "TawuTiya"; ObjectID = "Lvd-9P-kYC"; */
+"Lvd-9P-kYC.text" = "TawuTiya";
+
+/* Class = "UILabel"; text = "You are eligible"; ObjectID = "MM1-9S-PxN"; */
+"MM1-9S-PxN.text" = "You are eligible";
+
+/* Class = "UILabel"; text = "Tawuniya"; ObjectID = "O6v-Eg-h5W"; */
+"O6v-Eg-h5W.text" = "Tawuniya";
+
+/* Class = "UILabel"; text = "Add your health insurance info."; ObjectID = "OUX-Q9-MWA"; */
+"OUX-Q9-MWA.text" = "Add your health insurance info.";
+
+/* Class = "UILabel"; text = "Tawuniya\nWaseel Application Service Provider Ltd. - Saadi Muhammad Tayyab"; ObjectID = "PSk-oH-6EV"; */
+"PSk-oH-6EV.text" = "Tawuniya\nWaseel Application Service Provider Ltd. - Saadi Muhammad Tayyab";
+
+/* Class = "UILabel"; text = "العربيه"; ObjectID = "QLU-Lb-tbQ"; */
+"QLU-Lb-tbQ.text" = "العربيه";
+
+/* Class = "UILabel"; text = "Within 80 Kilometers"; ObjectID = "QxY-Dd-miQ"; */
+"QxY-Dd-miQ.text" = "Within 80 Kilometers";
+
+/* Class = "UILabel"; text = "13765786-oihoiu"; ObjectID = "SlZ-7N-py3"; */
+"SlZ-7N-py3.text" = "13765786-oihoiu";
+
+/* Class = "UIButton"; normalTitle = "Waseel ASP Ltd."; ObjectID = "ThI-Q9-GzO"; */
+"ThI-Q9-GzO.normalTitle" = "Waseel ASP Ltd.";
+
+/* Class = "UILabel"; text = "\nServing millions of insured members"; ObjectID = "UV8-7W-5uP"; */
+"UV8-7W-5uP.text" = "\nServing millions of insured members";
+
+/* Class = "UILabel"; text = " "; ObjectID = "VT1-l3-anf"; */
+"VT1-l3-anf.text" = " ";
+
+/* Class = "UILabel"; text = "Use my current location"; ObjectID = "YF4-Hh-BeD"; */
+"YF4-Hh-BeD.text" = "Use my current location";
+
+/* Class = "UILabel"; text = "CARD NO."; ObjectID = "YKi-RM-e8w"; */
+"YKi-RM-e8w.text" = "CARD NO.";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "a8V-7z-jjN"; */
+"a8V-7z-jjN.text" = "Title";
+
+/* Class = "UILabel"; text = "But service coverage may vary."; ObjectID = "aOs-Qn-9x9"; */
+"aOs-Qn-9x9.text" = "But service coverage may vary.";
+
+/* Class = "UILabel"; text = "\nGrowing number of integarted hospitals"; ObjectID = "aVV-s1-8er"; */
+"aVV-s1-8er.text" = "\nGrowing number of integarted hospitals";
+
+/* Class = "UIButton"; normalTitle = "CLOSE"; ObjectID = "cX6-V4-1gI"; */
+"cX6-V4-1gI.normalTitle" = "CLOSE";
+
+/* Class = "UILabel"; text = "002265390407001"; ObjectID = "dEG-xR-5Ox"; */
+"dEG-xR-5Ox.text" = "002265390407001";
+
+/* Class = "UINavigationItem"; title = "Dr. Sulaiman Al Habib Group"; ObjectID = "dZV-BO-Jf7"; */
+"dZV-BO-Jf7.title" = "Dr. Sulaiman Al Habib Group";
+
+/* Class = "UINavigationItem"; title = "Check Coverage"; ObjectID = "eNp-AZ-V8u"; */
+"eNp-AZ-V8u.title" = "Check Coverage";
+
+/* Class = "UILabel"; text = "Search Hospitals & Clinics"; ObjectID = "i7m-f4-V3W"; */
+"i7m-f4-V3W.text" = "Search Hospitals & Clinics";
+
+/* Class = "UINavigationItem"; title = "Health Insurance Info."; ObjectID = "jGw-cy-x4r"; */
+"jGw-cy-x4r.title" = "Health Insurance Info.";
+
+/* Class = "UILabel"; text = "Patient Share"; ObjectID = "kFR-Pc-Ll0"; */
+"kFR-Pc-Ll0.text" = "Patient Share";
+
+/* Class = "UILabel"; text = "POLICY NO."; ObjectID = "kVA-CZ-UGT"; */
+"kVA-CZ-UGT.text" = "POLICY NO.";
+
+/* Class = "UITextField"; placeholder = "TYPE YOUR"; ObjectID = "kgc-1D-VGK"; */
+"kgc-1D-VGK.placeholder" = "TYPE YOUR";
+
+/* Class = "UIButton"; normalTitle = "About us"; ObjectID = "lMI-dU-EfK"; */
+"lMI-dU-EfK.normalTitle" = "About us";
+
+/* Class = "UILabel"; text = "Hospitals & Clinics"; ObjectID = "lXt-S3-HKg"; */
+"lXt-S3-HKg.text" = "Hospitals & Clinics";
+
+/* Class = "UILabel"; text = "Tawuniya"; ObjectID = "mFF-OG-Ic0"; */
+"mFF-OG-Ic0.text" = "Tawuniya";
+
+/* Class = "UILabel"; text = "Primary"; ObjectID = "mgm-yO-qtN"; */
+"mgm-yO-qtN.text" = "Primary";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "mua-RI-uJp"; */
+"mua-RI-uJp.normalTitle" = "CONTINUE";
+
+/* Class = "UIViewController"; title = "Select Department/Speciality"; ObjectID = "nJ8-p7-blX"; */
+"nJ8-p7-blX.title" = "Select Department/Speciality";
+
+/* Class = "UIButton"; normalTitle = "Select Department"; ObjectID = "oDC-Kv-pfB"; */
+"oDC-Kv-pfB.normalTitle" = "Select Department";
+
+/* Class = "UILabel"; text = "With insurance coverage"; ObjectID = "qy7-ZC-NIY"; */
+"qy7-ZC-NIY.text" = "With insurance coverage";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "tI5-gN-AEx"; */
+"tI5-gN-AEx.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "More"; ObjectID = "ubN-ZF-0cw"; */
+"ubN-ZF-0cw.normalTitle" = "More";
+
+/* Class = "UIButton"; normalTitle = "Select Member"; ObjectID = "ymI-Pp-4LJ"; */
+"ymI-Pp-4LJ.normalTitle" = "Select Member";
+
+/* Class = "UINavigationItem"; title = "Find Hospitals & Clinics"; ObjectID = "z7d-TF-f8H"; */
+"z7d-TF-f8H.title" = "Find Hospitals & Clinics";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "zTe-nG-faT"; */
+"zTe-nG-faT.normalTitle" = "CONTINUE";
+
+/* Class = "UILabel"; text = "13765786-oihoiu"; ObjectID = "zks-U8-tlT"; */
+"zks-U8-tlT.text" = "13765786-oihoiu";

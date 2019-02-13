@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  Healthcover
+
+  Created by Waseel ASP Ltd. on 12/12/16.
+  Copyright © 2016 Waseel ASP Ltd. All rights reserved.
+*/
+"English" = "اللغة العربية";
+
+"Find hospitals/clinics covered under\nyour health insurance." = "Find hospitals/clinics covered under\nyour health insurance.";
+
+"About us" = "About us";
+
+"Waseel ASP Ltd." = "Waseel ASP Ltd.";
+
+"\nWorking with major health insurances" = "\nWorking with major health insurances";
+
+"\nGrowing number of integarted hospitals" = "\nGrowing number of healthcare providers";
+
+"\nServing millions of insured members" = "\nServing millions of insured members";
+
+"CLOSE" = "CLOSE";
+
+"Hospitals & Clinics" = "Hospitals & Clinics";
+
+"Search Hospitals & Clinics" = "Search Hospitals & Clinics";
+
+"Add your health insurance info." = "Add your health insurance info.";
+
+"TYPE YOUR" = "TYPE YOUR";
+
+"CARD NO." = "CARD NO.";
+
+"POLICY NO." = "POLICY NO.";
+
+"CONTINUE" = "CONTINUE";
+
+"Problem validating info" = "Problem validating info";
+
+"OK" = "OK";
+
+"Invalid insurance information.\nPlease try again." = "Invalid insurance information.\nPlease try again.";
+
+"Already existing member" = "Already existing member";
+
+"Given info already exist for,  \n" = "Given info already exist for,  \n";
+
+"Enter Name" = "Enter Name";
+
+"We couldn't retrieve your name\nTo proceed, please enter your name" = "We couldn't retrieve your name\nTo proceed, please enter your name";
+
+"Cancel" = "Cancel";
+
+"Details" = "Details";
+
+"Delete" = "Delete";
+
+"Are you sure, you want to delete policy" = "Are you sure, you want to delete policy";
+
+"All data will be deleted and you won't be able to recover it later." = "All data will be deleted and you won't be able to recover it later.";
+
+"Patient Share" = "Patient Share";
+
+"Find Hospitals & Clinics" = "Find Hospitals & Clinics";
+
+"Use my current location" = "Use my current location";
+
+"With insurance coverage" = "With insurance coverage";
+
+"It may take some time" = "It may take some time";
+
+"Within 80 Kilometers" = "Within 80 Kilometers";
+
+"Cannot determine your current location" = "Cannot determine your current location";
+
+"It could be a problem of GPS connectivity, try again while relocating your device" = "It could be a problem of GPS connectivity, try again while relocating your device";
+
+"Healthcover does not have access to your location." = "Healthcover does not have access to your location.";
+
+"To enable access, tap Settings > Location" = "To enable access, tap Settings > Location";
+
+"Settings" = "Settings";
+
+"Turn on Location Services to Allow \"Healthcover\" to Determine Your Location" = "Turn on Location Services to Allow \"Healthcover\" to Determine Your Location";
+
+"To find providers around you, Healthcover needs access to your phone's location" = "To find providers around you, Healthcover needs access to your phone's location";
+
+"More" = "More";
+
+"Select Member" = "Select Member";
+
+"Check Coverage" = "Check Coverage";
+
+"Check" = "Check";
+
+"Set" = "Set";
+
+"Reset" = "Reset";
+
+"Select Insurance" = "Select Insurance";
+
+"You are eligible" = "You are eligible";
+
+"But service coverage may vary." = "But service coverage may vary.";
+
+"You can contact Waseel for further info." = "You can contact Waseel for further info.";
+
+"Select Department/Speciality" = "Select Department/Speciality";
+
+"Couldn't find your health insurance info." = "Couldn't find your health insurance info.";
+
+"To proceed, please provide your health insurance info." = "To proceed, please provide your health insurance info.";
+
+"Not now" = "Not now";
+
+"Continue" = "Continue";

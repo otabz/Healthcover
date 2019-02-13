@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11542" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Insured_Benefit" representedClassName="Insured_Benefit" syncable="YES" codeGenerationType="class">
+        <attribute name="approval_threshold_limit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="desc" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="max_consult_fee" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="max_patient_share" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="patient_share" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_no" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Insured_Member" representedClassName="Insured_Member" syncable="YES" codeGenerationType="class">
+        <attribute name="company_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dob" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gender" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="marital_status_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="marital_status_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member_type_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member_type_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priority" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+    </entity>
+    <entity name="Insured_Policy" representedClassName="Insured_Policy" syncable="YES" codeGenerationType="class">
+        <attribute name="company_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_name_ar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="company_name_en" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="end_date" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_holder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_no" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="share_amount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="share_type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="start_date" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Insured_Provider" representedClassName="Insured_Provider" syncable="YES" codeGenerationType="class">
+        <attribute name="company_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="department_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="member_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="policy_no" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Insured_Benefit" positionX="-36" positionY="108" width="128" height="165"/>
+        <element name="Insured_Member" positionX="-54" positionY="63" width="128" height="210"/>
+        <element name="Insured_Policy" positionX="-63" positionY="-18" width="128" height="195"/>
+        <element name="Insured_Provider" positionX="-45" positionY="108" width="128" height="120"/>
+    </elements>
+</model>
